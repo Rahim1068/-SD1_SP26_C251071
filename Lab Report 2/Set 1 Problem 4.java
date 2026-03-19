@@ -16,7 +16,7 @@ public class SD_LabReport2_Set1Problem4 {
         System.out.print("Enter third number: ");
         int c = sc.nextInt();
         
-        int max = a;   // assume first is max
+        int max = a;  
         
         if(b > max){
             max = b;
